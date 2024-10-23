@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.hulu001.asia' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.hulu001.asia' }
+    { title: '有风有雨是常态，风雨兼程是状态，风雨无阻是心态！', url: 'https://www.hulu001.asia' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'hulu001.asia',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '欢迎来到我的博客',
+  HEO_HERO_TITLE_5: '追光的人终会光芒万丈',
   HEO_HERO_TITLE_LINK: 'https://www.hulu001.asia',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
